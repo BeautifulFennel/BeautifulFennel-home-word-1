@@ -1,3 +1,3 @@
-So it's a repository for software testing №1
+So it's a repository for software testing homework №1
 
 Looks fun
